@@ -8,8 +8,8 @@ Users can sign up through a form, and admins can manage users through a basic CR
 
 ## Preview
 
-![Signup Page](Cordino-signup1.png)
-![Admin Dashboard](Cordino-admin.png)
+![Signup Page](screenshots/signup.png)
+![Admin Dashboard](screenshots/admin.png)
 
 ---
 
