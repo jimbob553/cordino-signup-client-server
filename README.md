@@ -6,6 +6,13 @@ Users can sign up through a form, and admins can manage users through a basic CR
 
 ---
 
+## Preview
+
+![Signup Page](Cordino-signup1.png)
+![Admin Dashboard](Cordino-admin.png)
+
+---
+
 ## Features
 
 - User signup form with validation
