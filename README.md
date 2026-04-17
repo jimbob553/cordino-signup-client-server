@@ -42,9 +42,9 @@ Backend:
 - npm run dev
 
 ### Client
-cd client
-npm install
-npm start
+- cd client
+- npm install
+- npm start
 
 ---
 
